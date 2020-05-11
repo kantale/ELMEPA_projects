@@ -3,7 +3,7 @@
 
 ### 27 April 2020 
 * [Docker](docker.md)
-* [Bash](bash.sh)
+* [Bash](bash.md)
 
 ### 4 May 2020 
 * NGS + Projects https://www.dropbox.com/s/l6a1kjbsywo7yoa/673e35b0264d6fc59bc36417aa94d283.pptx?dl=0 
