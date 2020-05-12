@@ -13,4 +13,7 @@
 * Lesson 2 : https://gist.github.com/kantale/11e473af6ee463b6153a25fdfe348131
 * Lesson 3 : https://gist.github.com/kantale/9ccbc685551f81be3ca073623aa04f59 
 
+### We provide Dockerfiles for the following tools:
+* [AMOS Genome Assembly](http://amos.sourceforge.net/wiki/index.php/AMOS) [Dockerfile](tools/AMOS/Dockerfile)
+
 
