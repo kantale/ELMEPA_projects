@@ -16,4 +16,14 @@
 ### We provide Dockerfiles for the following tools:
 * [AMOS Genome Assembly](http://amos.sourceforge.net/wiki/index.php/AMOS) [Dockerfile](tools/AMOS/Dockerfile)
 
+### Project 2,3,4
+* Data : https://www.internationalgenome.org/data-portal/sample/NA12878 Download (fastq FTP)
+* Figure: https://www.hindawi.com/journals/bmri/2015/456479/fig1/ 
+* Paper: https://www.hindawi.com/journals/bmri/2015/456479/ 
+
+### Project 9,10
+* [Data](data_1.csv)
+
+### Other resources 
+* How to show a GUI running on Docker in Windows: https://dev.to/darksmile92/run-gui-app-in-linux-docker-container-on-windows-host-4kde 
 
