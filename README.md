@@ -15,6 +15,7 @@
 
 ### We provide Dockerfiles for the following tools:
 * [AMOS Genome Assembly](http://amos.sourceforge.net/wiki/index.php/AMOS) [Dockerfile](tools/AMOS/Dockerfile)
+* Also: [how to install R 4.0.0 from source with a single bash script](r.sh)
 
 ### Project 2,3,4
 * Data : https://www.internationalgenome.org/data-portal/sample/NA12878 Download (fastq FTP)
