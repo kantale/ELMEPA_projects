@@ -1,0 +1,6 @@
+file_a:
+   class: File 
+   path: bbb
+
+file_b: ccc.gz
+
