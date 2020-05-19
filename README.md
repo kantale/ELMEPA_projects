@@ -12,6 +12,11 @@
 * Lesson 1 : https://gist.github.com/kantale/7e7c551cc2ee6c74e663bf7d70ba4773
 * Lesson 2 : https://gist.github.com/kantale/11e473af6ee463b6153a25fdfe348131
 * Lesson 3 : https://gist.github.com/kantale/9ccbc685551f81be3ca073623aa04f59 
+* [Lesson 4](stat_test.ipynb) . Simple statistical test with chi square. 
+
+### 18 May 2020
+* [CWL Presentation](https://www.dropbox.com/s/ygydsequvuq887z/44e8879487672a12233120a426b69ec2.pptx?dl=0)
+* Files are available here: https://github.com/kantale/ELMEPA_projects/tree/master/CWL 
 
 ### We provide Dockerfiles for the following tools:
 * [AMOS Genome Assembly](http://amos.sourceforge.net/wiki/index.php/AMOS) [Dockerfile](tools/AMOS/Dockerfile)

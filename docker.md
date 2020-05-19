@@ -126,3 +126,14 @@ docker cp file.txt a59757f5f9e1:/
 Διαβάστε επίσης: https://docs.docker.com/engine/reference/commandline/cp/ 
 
 Μπορείτε να φτιάξετε όσα διαφορετικά images θέλετε και από αυτά μπορείτε να έχετε όσα containers θέλετε. 
+
+### Μπορείτε να κατεβάσετε ένα image τοπικά.
+Υπάρχει ένα αποθετήριο (repository) από images. Το [docker hub](https://hub.docker.com/). Μπορείτε να κατεβάσετε ένα container (π.χ [openjdk8](https://hub.docker.com/r/adoptopenjdk/openjdk8)). 
+
+```
+docker pull adoptopenjdk/openjdk8
+```
+
+
+[Ομοίως μπορείτε να "ανεβάσετε" τα δικά σας images](https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html). 
+ 
