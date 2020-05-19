@@ -32,4 +32,5 @@
 
 ### Other resources 
 * How to show a GUI running on Docker in Windows: https://dev.to/darksmile92/run-gui-app-in-linux-docker-container-on-windows-host-4kde 
+* [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 
