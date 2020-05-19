@@ -34,3 +34,26 @@
 * How to show a GUI running on Docker in Windows: https://dev.to/darksmile92/run-gui-app-in-linux-docker-container-on-windows-host-4kde 
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 
+### What to deliver:
+* BASH Scripts. Scripts should run in a docker container. 
+* **Important: Run your BASH scripts with this analysis tool: https://www.shellcheck.net/ before submitting!**. This tool can locate many quality/styling errors usually done from BASH newcomers!  
+* The Dockerfile that configures the image where the scripts are running.
+* Indicative, plot / figure / reports generated from your analysis. Do not add extremely large files. 
+* A report, approximate 3 pages, that will contain:
+   * The biology behind the task.
+   * A list of the tools / data that you used
+   * A diagram with the workflow. You can use any styling you want.. 
+   * The computational requirements (how much time it requires, Memory, )
+   * Describe shortly your experience of performing this analysis. What problems did you face? How did you resolve the,m? What advices would you give to anyone trying to perform the same task in the future? Imagine that this a blog post!
+* A presentation (approximately 5 slides). With highlights of the above.
+
+### Grading on projects
+Grades will be based on the degree in which we will be able to perform the following:
+* Install tools and download the data 2/10
+* reproduce / run your scripts 3/10
+* Generate your data / figures 3/10
+* Can your script, pick up from the point that it stopped if we stop it abruptly? 1/10
+* Quality of report / presentation 1/10
+
+
+
