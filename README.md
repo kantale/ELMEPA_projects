@@ -35,6 +35,7 @@
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 
 ### What to deliver:
+* Preferably, the report should be in **English**. 
 * BASH Scripts. Scripts should run in a docker container. 
 * **Important: Run your BASH scripts with this analysis tool: https://www.shellcheck.net/ before submitting!**. This tool can locate many quality/styling errors usually done from BASH newcomers!  
 * The Dockerfile that configures the image where the scripts are running.
